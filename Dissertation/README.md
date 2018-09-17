@@ -9,7 +9,7 @@ Baddeley’s proposal for the role of motivation in the WM model is theoreticall
 ## The Hedonic Detector Hypothesis
 The hedonic detector is proposed to process and store valence as a representation of its positivity or negativity and its intensity.  
 
-    The hedonic detector is proposed to be defined by five core features (Baddeley, 2013):
+  The hedonic detector is proposed to be defined by five core features (Baddeley, 2013):
   1. A neutral point, over which valences are assessed as positive and under which they are assessed as negative,
   2. The capacity to detect positive and negative valences,
   3. The capacity to average them to compute a mean hedonic signal,
@@ -26,10 +26,10 @@ The present research aims to investigate the effect of depression on the setting
 ## Hypotheses
 We hypothesise that, while controlling for gender, age, stress, and comorbid anxiety, participants’ depression scores will be associated with:
 
-   1. Their hedonic detector neutral point. 
+1. Their hedonic detector neutral point. 
 We predict that as depression level increases the neutral point will be set progressively higher, which will result in more negative    valence assessments, manifested in more negative responses in the quasi-perceptual test. We will examine this with linear regression. 
 
-    2. Their hedonic detector lability. We predict that as depression level increases, valence assessments will become more extreme,     manifested in greater overall deviation from the normative mean in the quasi-perceptual test. The model proposes that valence assessment is a WM function, and so we predict that responses in the quasi-perceptual test will be affected by depression-related constraints on WM capacity, which we theorise may manifest in more absolutist responses. We will examine this with linear regression. 
+2. Their hedonic detector lability. We predict that as depression level increases, valence assessments will become more extreme,     manifested in greater overall deviation from the normative mean in the quasi-perceptual test. The model proposes that valence assessment is a WM function, and so we predict that responses in the quasi-perceptual test will be affected by depression-related constraints on WM capacity, which we theorise may manifest in more absolutist responses. We will examine this with linear regression. 
 
 
 
