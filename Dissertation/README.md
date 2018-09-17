@@ -1,5 +1,5 @@
 # Exploring the Hedonic Detector: 
-## is an inappropriate setting of the neutral point aetiologically implicated in depression?
+## Is an inappropriate setting of the neutral point aetiologically implicated in depression?
 
 ### What is Working Memory?
 The Baddeley and Hitch model of working memory (WM; Baddeley and Hitch, 1974) is one of the most enduring and empirically supported models of cognition and memory (Logie & Cowan, 2015), with robust corroborative data originating in cognitive, developmental, and neuropsychological research, and theoretical support arising from computational models (Baddeley, 2000; Becker, 1994; Burgess & Hitch, 2005; de Ribaupierre & Hitch, 1994; Smith & Jonides, 1995, 1997). According to the Baddeley and Hitch model, WM is the basis of conscious thought, acting as a space in which representations of internal and external stimuli may be temporarily activated and manipulated by attentional control processes and accessed via consciousness (Baddeley, 2013). The Baddeley and Hitch model of WM comprises multiple main components, which are then fractionated into subcomponents. The model is semi-modular, in that these subcomponents are proposed to be functionally specialised, but necessarily interactive (Baddeley and Hitch, 1974; Baddeley, 1983, 1996, 2000, 2012). 
